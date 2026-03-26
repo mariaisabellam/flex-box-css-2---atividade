@@ -1,2 +1,2 @@
-# flex-box-css-2---atividadee
-atividade sobre flex-box no css
+# flex-box-css-2---atividade
+Atividade + desafio sobre flexbox - parte 2
